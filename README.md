@@ -40,11 +40,11 @@
 └─$ whoami --verbose
 
   NAME ............ Abdul Hayee
-  HANDLE .......... interstellar
-  ROLE ............ Computer Science Undergraduate
-  FOCUS ........... Cybersecurity  ◇  Ethical Hacking  ◇  Secure App Development
+  ROLE ............ Penetration Tester · Offensive Security Researcher
+  FOCUS ........... Web App  ◇ Network
+  Education ....... BS Computer Science @ University Of Sindh.
   LOCATION ........ Pakistan 🇵🇰
-  CERTS ........... 10+ (Google · ISC2 · LearnKartS · Coursera)
+  PLATFORMS ....... HackerOne · Pentester Lab · PortSwigger · TryHackMe
   MOTTO ........... "Break it. Understand it. Secure it."
 
 ┌──(abdul㉿interstellar)-[~]
