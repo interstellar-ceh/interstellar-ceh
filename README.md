@@ -128,27 +128,6 @@ flowchart LR
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Issued |
-|:--|:--|:--|
-| Assets, Threats, and Vulnerabilities | Google | Nov 2025 |
-| Tools of the Trade: Linux and SQL | Google | Oct 2025 |
-| Play It Safe: Manage Security Risks | Google | Sep 2025 |
-| Google AI Essentials | Google | Aug 2025 |
-| Advanced Ethical Hacking & Cybersecurity | LearnKartS | May 2025 |
-| Foundations of Cybersecurity | Google | Feb 2025 |
-| Ethical Hacking Fundamentals | LearnKartS | Jan 2025 |
-| Security Principles | ISC2 | Jan 2025 |
-| Build a Free Website with WordPress | Coursera Project Network | Dec 2024 |
-| Graphic Design | DigiSkills.pk | Jul 2024 |
-
-</div>
-
----
-
 ## 🚀 Featured Projects — *Built in the Lab*
 
 <div align="center">
