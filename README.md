@@ -1,72 +1,229 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2A44&height=210&section=header&text=Abdul%20Hayee%20—%20Black%20Byt3&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=root@blackbyt3:~%23%20whoami&descSize=18&descAlignY=58" width="100%"/> <a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3E7CB1&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Breaking+In+To+Understand+How+To+Defend;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Always+Learning%2C+Always+Building" /> </a>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                          🔐  HERO BANNER  🔐                          -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2A44,100:06B6D4&height=200&section=header" width="100%"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=interstellar-ceh&style=for-the-badge&color=1F2A44&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/interstellar-ceh?style=for-the-badge&color=0D1117&labelColor=0D1117" /> <img src="https://img.shields.io/badge/OPEN%20TO-Cybersecurity%20Roles-B23A2F?style=for-the-badge" />
+<h1 align="center">
+  root@blackbyt3:~# whoami
+</h1>
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/interstellar-ceh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=06B6D4&center=true&vCenter=true&width=680&lines=Computer+Science+Undergraduate;Breaking+In+To+Understand+How+To+Defend+%F0%9F%94%93;Cybersecurity+%2B+Ethical+Hacking+Enthusiast;Certified+Learner+%E2%80%94+Google+%C3%97+ISC2+%C3%97+LearnKartS;Building+Secure+Things%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://github.com/interstellar-ceh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdulhayee-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=interstellar-ceh&label=Recon%20Hits&color=06b6d4&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/interstellar-ceh?tab=followers">
+    <img src="https://img.shields.io/github/followers/interstellar-ceh?label=Followers&style=for-the-badge&color=8b5cf6" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open_to-Entry_%2F_Junior_Roles-22c55e?style=for-the-badge" alt="Open to work"/>
+</p>
 
-</div> <br>
-🖥️ $ cat /etc/profile
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulhayee-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
+
+## 🖥️ `$ cat /etc/profile`
+
+```bash
 ┌──(abdul㉿blackbyt3)-[~]
 └─$ whoami --verbose
 
   NAME ............ Abdul Hayee
   HANDLE .......... Black Byt3
   ROLE ............ Computer Science Undergraduate
-  FOCUS ........... Cybersecurity  ◇  Ethical Hacking  ◇  Secure Application Development
+  FOCUS ........... Cybersecurity  ◇  Ethical Hacking  ◇  Secure App Development
   LOCATION ........ Pakistan 🇵🇰
-  CERTS ........... 10+ (Google, ISC2, LearnKartS, Coursera)
+  CERTS ........... 10+ (Google · ISC2 · LearnKartS · Coursera)
   MOTTO ........... "Break it. Understand it. Secure it."
-<br>
-🧭 $ ./mission.sh
 
-[+] Learn the fundamentals.   [+] Build real projects.   [+] Break them (safely).   [+] Fix them properly.
-🎓 Computer Science undergraduate on a mission to break into cybersecurity
-🔐 Building a foundation across security principles, ethical hacking, and secure application development
-🛠️ Learning by building — encrypted file-sharing tools, management systems, and more
-📜 Continuously stacking certifications from Google, ISC2, and other recognized providers
-📡 Open to internships and entry-level roles in security-related fields
-<br>
-📜 Certifications
-Certification	Issuer	Issued
-Assets, Threats, and Vulnerabilities	Google	Nov 2025
-Tools of the Trade: Linux and SQL	Google	Oct 2025
-Play It Safe: Manage Security Risks	Google	Sep 2025
-Google AI Essentials	Google	Aug 2025
-Advanced Ethical Hacking & Cybersecurity	LearnKartS	May 2025
-Foundations of Cybersecurity	Google	Feb 2025
-Ethical Hacking Fundamentals	LearnKartS	Jan 2025
-Security Principles	ISC2	Jan 2025
-Build a Free Website with WordPress	Coursera Project Network	Dec 2024
-Graphic Design	DigiSkills.pk	Jul 2024
-<br>
-🚀 Featured Projects
+┌──(abdul㉿blackbyt3)-[~]
+└─$ ./mission.sh
+  [+] Learn it.  [+] Build it.  [+] Break it (safely).  [+] Fix it properly.
+```
 
-🔐 SecureShare — Jan 2026 Security-first web app built during my internship at Future Interns. A Flask-based portal implementing AES-256 encryption for all uploaded files, aimed at secure file sharing for sensitive industries. Shipped with a self-executable setup script and full documentation — including solving SSL protocol issues for secure local testing. Python Flask AES-256 SSL 🔗 github.com/interstellar-ceh/secure-file-share
+- 🎓 **Computer Science undergraduate** on a mission to break into cybersecurity
+- 🔐 **Building a real foundation** — security principles, ethical hacking, and secure app development
+- 🛠️ **Learning by building** — encrypted file-sharing tools, management systems, and more
+- 📜 **Continuously certifying** — stacking credentials from Google, ISC2, and other recognized providers
+- 📡 **Open to opportunities** — actively seeking internships and entry-level security-related roles
 
-📚 Library Management System — Jul 2025 – Nov 2025 A full system to automate day-to-day library operations — book management, member management, and issue/return tracking — replacing manual record-keeping with a structured digital workflow. HTML CSS JavaScript PHP MySQL
+<p align="center"><em style="color:#06b6d4;">"Learn Relentlessly · Build Fearlessly · Secure Everything."</em></p>
 
-<br>
-🧰 Toolbox
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <br>
-📊 Recon Report — Live Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=interstellar-ceh&show_icons=true&theme=default&title_color=1F2A44&text_color=333&icon_color=3E7CB1&border_color=C7D2DE" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=interstellar-ceh&layout=compact&theme=default&title_color=1F2A44&text_color=333&border_color=C7D2DE" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=interstellar-ceh&theme=default&background=FFFFFF&ring=3E7CB1&fire=B23A2F&currStreakLabel=1F2A44" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=interstellar-ceh&theme=flat&no-frame=true&column=6&margin-w=8&margin-h=8" /> </div> <br>
-🎯 Open to Work
+---
 
-Available for internships and entry-level roles in: Cybersecurity · Ethical Hacking · Security Analysis · Secure Application Development
+## 🎯 My Learning & Build Workflow — *How I Operate*
 
-✅ Can do now: Core security principles, Linux & SQL fundamentals, secure app development (encryption, secure file handling), full-stack basics (HTML/CSS/JS, PHP/MySQL, Flask)
-📈 Fast learner: actively stacking certifications and applying them directly to real projects
-🤝 Mindset: curious, security-first, and always digging one layer deeper
-🌍 Flexible: open to remote, on-site, or hybrid opportunities in Pakistan or abroad
-<br>
-📡 Let's Connect
-<div align="center"> <a href="https://github.com/interstellar-ceh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdulhayee-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </div> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:0D1117&height=100&section=footer" width="100%"/> <div align="center">
+<div align="center">
 
-⭐ This README is a living engagement log — continuously evolving.
+```mermaid
+flowchart LR
+    A([📚 Learn]) --> B([🧪 Practice]) --> C([🛠️ Build]) --> D([🔎 Test]) --> E([🔐 Secure & Document])
+    style A fill:#0d1117,stroke:#06b6d4,color:#06b6d4
+    style B fill:#0d1117,stroke:#22c55e,color:#22c55e
+    style C fill:#0d1117,stroke:#8b5cf6,color:#8b5cf6
+    style D fill:#0d1117,stroke:#e94d5f,color:#e94d5f
+    style E fill:#0d1117,stroke:#f59e0b,color:#f59e0b
+```
 
 </div>
+
+| Phase | What I do |
+|:--|:--|
+| 📚 **Learn** | Work through structured courses & certifications (Google, ISC2, LearnKartS) |
+| 🧪 **Practice** | Apply concepts hands-on — Linux, SQL, networking, security fundamentals |
+| 🛠️ **Build** | Turn learning into real projects — encryption, secure portals, full-stack apps |
+| 🔎 **Test** | Check my own work for gaps — SSL issues, edge cases, real-world constraints |
+| 🔐 **Secure & Document** | Ship with proper documentation so the work is reproducible and understandable |
+
+---
+
+## 🧰 Arsenal — *Loaded & Ready*
+
+<div align="center">
+
+### 🔐 Cybersecurity Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Security_Principles-000000?style=for-the-badge&logo=isc2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-E94D5F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threats_%26_Vulnerabilities-4B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Risk_Management-D93A3D?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🖥️ Systems & Data
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 💻 Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🎨 Other Skills
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graphic_Design-FF6633?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_AI_Essentials-4CAF50?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Issued |
+|:--|:--|:--|
+| Assets, Threats, and Vulnerabilities | Google | Nov 2025 |
+| Tools of the Trade: Linux and SQL | Google | Oct 2025 |
+| Play It Safe: Manage Security Risks | Google | Sep 2025 |
+| Google AI Essentials | Google | Aug 2025 |
+| Advanced Ethical Hacking & Cybersecurity | LearnKartS | May 2025 |
+| Foundations of Cybersecurity | Google | Feb 2025 |
+| Ethical Hacking Fundamentals | LearnKartS | Jan 2025 |
+| Security Principles | ISC2 | Jan 2025 |
+| Build a Free Website with WordPress | Coursera Project Network | Dec 2024 |
+| Graphic Design | DigiSkills.pk | Jul 2024 |
+
+</div>
+
+---
+
+## 🚀 Featured Projects — *Built in the Lab*
+
+<div align="center">
+
+| 🛠️ Project | What it does |
+|:---|:---|
+| **[SecureShare](https://github.com/interstellar-ceh/secure-file-share)** | Flask-based portal with AES-256 encryption for secure file sharing — built during my internship at Future Interns |
+| **Library Management System** | PHP/MySQL system automating book, member, and issue/return tracking for libraries |
+
+</div>
+
+> 📌 *Pin these repos so they render right under this README.*
+
+---
+
+## 📊 Recon Report — *Live Stats*
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=interstellar-ceh&show_icons=true&count_private=true&hide_border=true&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=interstellar-ceh&layout=compact&hide_border=true&title_color=06b6d4&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=interstellar-ceh&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=e94d5f&currStreakLabel=06b6d4"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=interstellar-ceh&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=interstellar-ceh&bg_color=0d1117&color=06b6d4&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+<!-- 🐍 Contribution snake (needs the snake.yml GitHub Action — ask me to add it) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interstellar-ceh/interstellar-ceh/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</p>
+
+---
+
+## 🎯 Open To Work
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💼_Available_for-Entry--Level_%2F_Junior_Roles-22c55e?style=for-the-badge" alt="Available"/>
+</div>
+
+> I'm actively looking for **entry-level / junior / internship** opportunities in:
+> **Cybersecurity · Ethical Hacking · Security Analysis · Secure Application Development**
+
+**What I bring on day one** — and what I'm hungry to grow into:
+
+- ✅ **Can do now:** Core security principles, Linux & SQL fundamentals, secure app development (encryption, secure file handling), full-stack basics (HTML/CSS/JS, PHP/MySQL, Flask)
+- 📈 **Fast learner:** actively stacking certifications and applying them directly to real projects
+- 🤝 **Mindset:** curious, security-first, and always digging one layer deeper
+- 🌍 **Flexible:** open to **Remote · Hybrid · On-site** opportunities, in Pakistan or abroad
+
+<p align="center"><em>Give me a target and a goal — I'll learn whatever it takes to reach it.</em></p>
+
+---
+
+## 📡 Establish Connection
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulhayee-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/interstellar-ceh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:1F2A44&height=120&section=footer&text=Stay%20Curious.%20Stay%20Secure.&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="footer"/>
+</p>
+
+<p align="center"><sub>⭐ This README is a living engagement log — continuously evolving, like every good learner.</sub></p>
