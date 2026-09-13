@@ -3,11 +3,12 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2A44,100:06B6D4&height=200&section=header" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U1M3ExbWE0cGpydGFmemJnNWMyOGFwcnNrYWtxZW5tbjVvenA4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" alt="Abdul Hayee — Offensive Security" width="480"/>
 </p>
 
 <h1 align="center">
-  root@blackbyt3:~# whoami
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  &nbsp;root@interstellar:~# whoami
 </h1>
 
 <p align="center">
@@ -35,26 +36,26 @@
 ## 🖥️ `$ cat /etc/profile`
 
 ```bash
-┌──(abdul㉿blackbyt3)-[~]
+┌──(abdul㉿interstellar)-[~]
 └─$ whoami --verbose
 
   NAME ............ Abdul Hayee
-  HANDLE .......... Black Byt3
+  HANDLE .......... interstellar
   ROLE ............ Computer Science Undergraduate
   FOCUS ........... Cybersecurity  ◇  Ethical Hacking  ◇  Secure App Development
   LOCATION ........ Pakistan 🇵🇰
   CERTS ........... 10+ (Google · ISC2 · LearnKartS · Coursera)
   MOTTO ........... "Break it. Understand it. Secure it."
 
-┌──(abdul㉿blackbyt3)-[~]
+┌──(abdul㉿interstellar)-[~]
 └─$ ./mission.sh
-  [+] Learn it.  [+] Build it.  [+] Break it (safely).  [+] Fix it properly.
+  [+] Learn it.  [+] Build it.  [+] Break it  [+] Document it.  [+] Fix it.  [+] Then teach it.
 ```
 
-- 🎓 **Computer Science undergraduate** on a mission to break into cybersecurity
+- 🤲 **Guided by Faith** — *"هَذَا مِن فَضْلِ رَبِّي"* — All through the Grace of Allah
+- 🔓 **Self-taught hacker** — every skill earned from zero guidance, pure passion & research
+- 🕸️ **Offensive-first mindset** — I think like an attacker so defenders sleep better
 - 🔐 **Building a real foundation** — security principles, ethical hacking, and secure app development
-- 🛠️ **Learning by building** — encrypted file-sharing tools, management systems, and more
-- 📜 **Continuously certifying** — stacking credentials from Google, ISC2, and other recognized providers
 - 📡 **Open to opportunities** — actively seeking internships and entry-level security-related roles
 
 <p align="center"><em style="color:#06b6d4;">"Learn Relentlessly · Build Fearlessly · Secure Everything."</em></p>
